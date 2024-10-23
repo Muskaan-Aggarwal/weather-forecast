@@ -6,7 +6,7 @@
 1. Retrieves current weather conditions, including temperature, humidity, wind speed, and weather description
 2. Displays 5-day weather forecast with high and low temperatures, weather description, and icons
 3. Supports multiple locations, allowing users to switch between different cities
-4. Provides a simple and intuitive user interface using a command-line interface (CLI)
+4. Provides a simple and intuitive user interface using a command-line interface 
 ## Requirements
 1. Python 3.8 or later
 2. OpenWeatherMap API key (free registration required)
